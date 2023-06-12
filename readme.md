@@ -55,8 +55,11 @@ https://digitalcareerinstitute.org/de/?error=404
 
 ### Table syntax
 
-| Name | | Email |
-|------| |-------|
-| Paul | |paul.jacob.dci.com| 
+| Name | Email |
+|------| -------|
+| Paul | paul.jacob.dci.com|
+| Devine | Devine.com|
+|David|david.com|
+
 
 
